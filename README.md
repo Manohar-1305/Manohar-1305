@@ -16,18 +16,22 @@
 
 ---
 
-### 🛠️ Tech Toolbox
+### [🛠️ Tech Toolbox](https://linkedin.com/in/manohar-shetty507)
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
+
 
 ---
 
@@ -41,12 +45,13 @@
 ---
 
 ### 🧩 Highlighted Skills
-- 🔧 Infrastructure as Code: **Terraform**, **Ansible**  
-- ☁️ Cloud Platforms: **AWS**, **EFS**, **EC2**, **S3**  
-- 🐳 Containerization: **Docker**, **Kubernetes**  
-- 🚀 CI/CD: **GitHub Actions**, **Jenkins**  
-- 🐍 Backend: **Python**, **Flask**
-
+- 💻 **Operating Systems:** Linux (Ubuntu, CentOS), Bare Metal setups, Virtual Machines  
+- ⚙️ **Automation & Scripting:** Shell Scripting (Bash), Python, Ansible  
+- 🧱 **Infrastructure as Code:** Terraform, Ansible, CloudFormation  
+- ☁️ **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform (GCP)  
+- 🐳 **Containerization & Orchestration:** Docker, Kubernetes  
+- 🚀 **CI/CD Pipelines:** GitHub Actions, Jenkins  
+- 🐍 **Backend Development:** Python, Flask 
 ---
 
 ### 🌐 Connect with Me
