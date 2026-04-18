@@ -72,7 +72,7 @@
 
 📍 **LinkedIn:** [linkedin.com/in/manohar-shetty507](https://linkedin.com/in/manohar-shetty507)  
 🎥 **YouTube:** [youtube.com/channel/UC7SxpjKOXTG2ae8vSTyYatA](https://youtube.com/channel/UC7SxpjKOXTG2ae8vSTyYatA)  
-📝 **Medium Blog:** Blogs on Kubernetes, shell scripting , Docker, Linux ...so on(https://medium.com/@tradingcontentdrive)
+📝 **Medium Blog:** (https://medium.com/@tradingcontentdrive)
 
 ---
 
