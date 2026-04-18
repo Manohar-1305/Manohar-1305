@@ -62,7 +62,7 @@
   <a href="https://youtube.com/channel/UC7SxpjKOXTG2ae8vSTyYatA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://medium.com/@tradingcontentdrive/day-7-devops-made-easy-25-bash-scripts-to-automate-your-workflow-514196b65788" target="_blank">
+  <a href="https://medium.com/@tradingcontentdrive" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://github.com/Manohar-1305" target="_blank">
