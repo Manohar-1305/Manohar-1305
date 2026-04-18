@@ -72,7 +72,7 @@
 
 📍 **LinkedIn:** [linkedin.com/in/manohar-shetty507](https://linkedin.com/in/manohar-shetty507)  
 🎥 **YouTube:** [youtube.com/channel/UC7SxpjKOXTG2ae8vSTyYatA](https://youtube.com/channel/UC7SxpjKOXTG2ae8vSTyYatA)  
-📝 **Medium Blog:** [DevOps Made Easy — 25 Bash Scripts to Automate Your Workflow](https://medium.com/@tradingcontentdrive/day-7-devops-made-easy-25-bash-scripts-to-automate-your-workflow-514196b65788)
+📝 **Medium Blog:** Blogs on Kubernetes, shell scripting , Docker, Linux ...so on(https://medium.com/@tradingcontentdrive)
 
 ---
 
